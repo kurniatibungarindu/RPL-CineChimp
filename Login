@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+
+<!--di buat oleh rindu-->
+
+<html>
+</html>
